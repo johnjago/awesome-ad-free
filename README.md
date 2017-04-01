@@ -7,26 +7,43 @@ A curated list of ad-free services on the Internet.
 —Matthew Butterick
 
 ## Contents
-* [Mobile Apps](#mobile-apps)
+* [Websites and Apps](websites-and-apps)
+  * [File Sharing](#file-sharing)
+  * [Messaging](#messaging)
+  * [Mobile](#mobile)
+  * [Reference](#reference)
 * [Resources](#resources)
+  * [Articles](#articles)
+  * [More](#more)
 
 ---
 
-## Mobile Apps
+## Websites and Apps
+
+### File Sharing
+* [Dropfile.to](https://dropfile.to/) - Anonymous file upload.
+
+### Messaging
+* [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
+
+### Mobile
 * [Ready](https://readytheapp.com/) - Minimalist news reader.
 
-## Websites
+### Reference
 * [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk.
 
 ---
 
 ## Resources
 
+### Ad Blocker
+* [uBlock Origin](https://github.com/gorhill/uBlock)
+
 ### Articles
 * [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/)
 * [Vote with your wallet, not your ad blocker](http://practicaltypography.com/vote-with-your-wallet.html)
 
-### More
+### Groups
 * [ad free blog](http://adfreeblog.org/)
 * [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/)
 * [No more ads manifesto](https://nomoreads.org/)
