@@ -13,8 +13,9 @@ A curated list of ad-free services on the Internet.
   * [Mobile](#mobile)
   * [Reference](#reference)
 * [Resources](#resources)
+  * [Ad Blocker](#ad-blocker)
   * [Articles](#articles)
-  * [More](#more)
+  * [Groups](#more)
 
 ---
 
