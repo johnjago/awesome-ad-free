@@ -17,8 +17,6 @@ A curated list of ad-free services on the Internet.
   * [Articles](#articles)
   * [Groups](#more)
 
----
-
 ## Websites and Apps
 
 ### File Sharing
@@ -32,8 +30,6 @@ A curated list of ad-free services on the Internet.
 
 ### Reference
 * [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk.
-
----
 
 ## Resources
 
