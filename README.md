@@ -15,7 +15,7 @@ A curated list of ad-free services on the Internet.
 - [Resources](#resources)
   - [Ad Blocker](#ad-blocker)
   - [Articles](#articles)
-  - [Groups](#more)
+  - [Groups](#groups)
 
 ## Websites and Applications
 
