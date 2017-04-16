@@ -7,43 +7,43 @@ A curated list of ad-free services on the Internet.
 —Matthew Butterick
 
 ## Contents
-* [Websites and Apps](#websites-and-apps)
-  * [File Sharing](#file-sharing)
-  * [Messaging](#messaging)
-  * [Mobile](#mobile)
-  * [Reference](#reference)
-* [Resources](#resources)
-  * [Ad Blocker](#ad-blocker)
-  * [Articles](#articles)
-  * [Groups](#more)
+- [Websites and Apps](#websites-and-applications)
+  - [File Sharing](#file-sharing)
+  - [Messaging](#messaging)
+  - [Mobile](#mobile)
+  - [Reference](#reference)
+- [Resources](#resources)
+  - [Ad Blocker](#ad-blocker)
+  - [Articles](#articles)
+  - [Groups](#more)
 
-## Websites and Apps
+## Websites and Applications
 
 ### File Sharing
-* [Dropfile.to](https://dropfile.to/) - Anonymous file upload.
+- [Dropfile.to](https://dropfile.to/) - Anonymous file upload.
 
 ### Messaging
-* [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
+- [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 
 ### Mobile
-* [Ready](https://readytheapp.com/) - Minimalist news reader.
+- [Ready](https://readytheapp.com/) - Minimalist news reader.
 
 ### Reference
-* [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk.
+- [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk.
 
 ## Resources
 
 ### Ad Blocker
-* [uBlock Origin](https://github.com/gorhill/uBlock)
+- [uBlock Origin](https://github.com/gorhill/uBlock)
 
 ### Articles
-* [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/)
-* [Vote with your wallet, not your ad blocker](http://practicaltypography.com/vote-with-your-wallet.html)
+- [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/)
+- [Vote with your wallet, not your ad blocker](http://practicaltypography.com/vote-with-your-wallet.html)
 
 ### Groups
-* [ad free blog](http://adfreeblog.org/)
-* [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/)
-* [No more ads manifesto](https://nomoreads.org/)
+- [ad free blog](http://adfreeblog.org/)
+- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/)
+- [No more ads manifesto](https://nomoreads.org/)
 
 ## License
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
