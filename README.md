@@ -7,7 +7,7 @@ A curated list of ad-free services on the Internet.
 —Matthew Butterick
 
 ## Contents
-- [Websites and Apps](#websites-and-applications)
+- [Websites and Applications](#websites-and-applications)
   - [File Sharing](#file-sharing)
   - [Messaging](#messaging)
   - [Mobile](#mobile)
