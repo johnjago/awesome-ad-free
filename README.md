@@ -12,6 +12,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
   - [Messaging](#messaging)
   - [Mobile](#mobile)
   - [Reference](#reference)
+  - [Utilities](#utilities)
 - [Resources](#resources)
   - [Ad Blocker](#ad-blocker)
   - [Articles](#articles)
