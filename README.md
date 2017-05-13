@@ -15,6 +15,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
   - [Utilities](#utilities)
 - [Resources](#resources)
   - [Ad Blocker](#ad-blocker)
+  - [Ad-Free Business Model](#ad-free-business-model)
   - [Articles](#articles)
   - [Groups](#groups)
 
@@ -41,7 +42,17 @@ A curated list of ad-free alternatives to popular services on the Internet.
 ### Ad Blocker
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 
+### Ad-Free Business Model
+- [Flattr](https://flattr.com/)
+- [Gitpay](http://gitpay.org/)
+- [Gratipay](https://gratipay.com/)
+- [Liberapay](https://liberapay.com/)
+- [OpenCollective](https://opencollective.com/)
+- [Patreon](https://www.patreon.com/)
+
 ### Articles
+- [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/)
+- [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/)
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/)
 - [Vote with your wallet, not your ad blocker](http://practicaltypography.com/vote-with-your-wallet.html)
 
