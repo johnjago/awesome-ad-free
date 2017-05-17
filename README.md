@@ -22,7 +22,8 @@ A curated list of ad-free alternatives to popular services on the Internet.
 ## Websites and Applications
 
 ### File Sharing
-- [Dropfile.to](https://dropfile.to/) - Anonymous file upload.
+- [Dropfile.to](https://dropfile.to/) - Anonymous file upload site that does not store user information.
+- [qBittorrent](https://www.qbittorrent.org/) - Free and open-source BitTorrent client.
 
 ### Messaging
 - [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
@@ -32,7 +33,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
 - [Ready](https://readytheapp.com/) - Minimalist news reader.
 
 ### Reference
-- [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk.
+- [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk with links to hundreds of car related resources.
 
 ### Utilities
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
