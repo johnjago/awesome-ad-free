@@ -13,6 +13,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
   - [Mobile](#mobile)
   - [Reference](#reference)
   - [Utilities](#utilities)
+  - [Video](#video)
 - [Resources](#resources)
   - [Ad Blocker](#ad-blocker)
   - [Ad-Free Business Model](#ad-free-business-model)
@@ -37,6 +38,9 @@ A curated list of ad-free alternatives to popular services on the Internet.
 
 ### Utilities
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
+
+### Video
+- [Vimeo](https://vimeo.com/) - An alternative to YouTube for viewing and uploading videos.
 
 ## Resources
 
