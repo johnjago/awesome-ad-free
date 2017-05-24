@@ -7,6 +7,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
 —Matthew Butterick
 
 ## Contents
+
 - [Websites and Applications](#websites-and-applications)
   - [File Sharing](#file-sharing)
   - [Messaging](#messaging)
@@ -23,31 +24,39 @@ A curated list of ad-free alternatives to popular services on the Internet.
 ## Websites and Applications
 
 ### File Sharing
+
 - [Dropfile.to](https://dropfile.to/) - Anonymous file upload site that does not store user information.
 - [qBittorrent](https://www.qbittorrent.org/) - Free and open-source BitTorrent client.
 
 ### Messaging
+
 - [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 - [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
 
 ### Mobile
+
 - [Ready](https://readytheapp.com/) - Minimalist news reader.
 
 ### Reference
+
 - [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk with links to hundreds of car related resources.
 
 ### Utilities
+
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
 
 ### Video
+
 - [Vimeo](https://vimeo.com/) - An alternative to YouTube for viewing and uploading videos.
 
 ## Resources
 
 ### Ad Blocker
+
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 
 ### Ad-Free Business Model
+
 - [Flattr](https://flattr.com/)
 - [Gitpay](http://gitpay.org/)
 - [Gratipay](https://gratipay.com/)
@@ -56,16 +65,20 @@ A curated list of ad-free alternatives to popular services on the Internet.
 - [Patreon](https://www.patreon.com/)
 
 ### Articles
+
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/)
+- [Criticism of advertising, Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising)
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/)
 - [Vote with your wallet, not your ad blocker](http://practicaltypography.com/vote-with-your-wallet.html)
 
 ### Groups
+
 - [ad free blog](http://adfreeblog.org/)
 - [Adbusters](https://www.adbusters.org/)
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/)
 - [No more ads manifesto](https://nomoreads.org/)
 
 ## License
+
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
