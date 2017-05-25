@@ -67,8 +67,9 @@ A curated list of ad-free alternatives to popular services on the Internet.
 ### Articles
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/)
+- [Anti-consumerism on Wikipedia](https://en.wikipedia.org/wiki/Anti-consumerism)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/)
-- [Criticism of advertising, Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising)
+- [Criticism of advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising)
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/)
 - [Vote with your wallet, not your ad blocker](http://practicaltypography.com/vote-with-your-wallet.html)
 
