@@ -12,6 +12,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
   - [File Sharing](#file-sharing)
   - [Messaging](#messaging)
   - [Mobile](#mobile)
+  - [Music](#music)
   - [Reference](#reference)
   - [Utilities](#utilities)
   - [Video](#video)
@@ -37,6 +38,10 @@ A curated list of ad-free alternatives to popular services on the Internet.
 ### Mobile
 
 - [Ready](https://readytheapp.com/) - Minimalist news reader.
+
+### Music
+
+- [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
 
 ### Reference
 
