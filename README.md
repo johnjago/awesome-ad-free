@@ -43,6 +43,10 @@ A curated list of ad-free alternatives to popular services on the Internet.
 
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
 
+### Publications
+
+- [Consumerist](https://consumerist.com/) - Independent, not-for-profit source of consumer news and information.
+
 ### Reference
 
 - [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk with links to hundreds of car related resources.
