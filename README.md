@@ -13,6 +13,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
   - [Messaging](#messaging)
   - [Mobile](#mobile)
   - [Music](#music)
+  - [Publications](#publications)
   - [Reference](#reference)
   - [Utilities](#utilities)
   - [Video](#video)
@@ -32,6 +33,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
 
 ### Messaging
 
+- [ProtonMail](https://protonmail.com/) - Secure, encrypted email.
 - [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 - [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
 
@@ -45,6 +47,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
 
 ### Publications
 
+- [Adbusters](https://www.adbusters.org/) - Magazine about the takeover of psychological, physical, and cultural environments by commercial forces.
 - [Consumerist](https://consumerist.com/) - Independent, not-for-profit source of consumer news and information.
 
 ### Reference
@@ -86,7 +89,6 @@ A curated list of ad-free alternatives to popular services on the Internet.
 ### Groups
 
 - [ad free blog](http://adfreeblog.org/)
-- [Adbusters](https://www.adbusters.org/)
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/)
 - [No more ads manifesto](https://nomoreads.org/)
 
