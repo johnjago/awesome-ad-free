@@ -53,6 +53,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
 ### Reference
 
 - [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk with links to hundreds of car related resources.
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Encyclopedia that anyone can edit.
 
 ### Utilities
 
