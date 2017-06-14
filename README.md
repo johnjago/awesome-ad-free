@@ -53,6 +53,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
 ### Reference
 
 - [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk with links to hundreds of car related resources.
+- [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license.
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Encyclopedia that anyone can edit.
 - [Wiktionary](https://www.wiktionary.org/) - Dictionary that anyone can edit.
 
