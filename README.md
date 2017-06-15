@@ -8,7 +8,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
 
 ## Contents
 
-- [Websites and Applications](#websites-and-applications)
+- [Alternatives](#alternatives)
   - [File Sharing](#file-sharing)
   - [Messaging](#messaging)
   - [Mobile](#mobile)
@@ -23,7 +23,9 @@ A curated list of ad-free alternatives to popular services on the Internet.
   - [Articles](#articles)
   - [Groups](#groups)
 
-## Websites and Applications
+## Alternatives
+
+Alternatives to ad-supported websites, software, and publications.
 
 ### File Sharing
 
@@ -35,6 +37,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
 
 - [ProtonMail](https://protonmail.com/) - Secure, encrypted email.
 - [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
+- [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing.
 - [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
 
 ### Mobile
