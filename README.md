@@ -60,6 +60,10 @@ Alternatives to ad-supported websites, software, and publications.
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Encyclopedia that anyone can edit.
 - [Wiktionary](https://www.wiktionary.org/) - Dictionary that anyone can edit.
 
+### Social Networks
+
+- [Mastodon](https://mastodon.social) - Free, open source, and decentralized social network server.
+
 ### Utilities
 
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
