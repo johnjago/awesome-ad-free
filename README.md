@@ -15,6 +15,7 @@ A curated list of ad-free alternatives to popular services on the Internet.
   - [Music](#music)
   - [Publications](#publications)
   - [Reference](#reference)
+  - [Social Networks](#social-networks)
   - [Utilities](#utilities)
   - [Video](#video)
 - [Resources](#resources)
