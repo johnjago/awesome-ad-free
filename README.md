@@ -65,6 +65,7 @@
 ### Social Networks
 
 - [Mastodon](https://mastodon.social) - Free, open source, and decentralized social network server.
+- [Quitter.se](https://quitter.se) - Twitter clone that is part of the federated GNU social network.
 
 ### Utilities
 
@@ -83,17 +84,17 @@
 ### Articles
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/)
-- [Anti-consumerism on Wikipedia](https://en.wikipedia.org/wiki/Anti-consumerism)
+- [Anti-Consumerism on Wikipedia](https://en.wikipedia.org/wiki/Anti-consumerism)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/)
-- [Criticism of advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising)
+- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising)
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/)
-- [Vote with your wallet, not your ad blocker](http://practicaltypography.com/vote-with-your-wallet.html)
+- [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html)
 
 ### Groups
 
-- [ad free blog](http://adfreeblog.org/)
+- [Ad Free Blog](http://adfreeblog.org/)
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/)
-- [No more ads manifesto](https://nomoreads.org/)
+- [No More Ads Manifesto](https://nomoreads.org/)
 
 ### Make Money Without Ads
 
