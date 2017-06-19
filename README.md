@@ -1,8 +1,8 @@
 # Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://nomoreads.org/img/nomoreads_logo_small.png" width="60" height="24"></a>
 
-A curated list of ad-free alternatives to popular services on the Internet.
+> A curated list of ad-free alternatives to popular services on the Internet.
 
->Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
+> Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
 
 —Matthew Butterick
 
@@ -20,13 +20,14 @@ A curated list of ad-free alternatives to popular services on the Internet.
   - [Video](#video)
 - [Resources](#resources)
   - [Ad Blocker](#ad-blocker)
-  - [Ad-Free Business Model](#ad-free-business-model)
   - [Articles](#articles)
   - [Groups](#groups)
+  - [Make Money Without Ads](#make-money-without-ads)
+ - [License](#license)
 
 ## Alternatives
 
-Alternatives to ad-supported websites, software, and publications.
+> Alternatives to ad-supported websites, software, and publications.
 
 ### File Sharing
 
@@ -79,15 +80,6 @@ Alternatives to ad-supported websites, software, and publications.
 
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 
-### Ad-Free Business Model
-
-- [Flattr](https://flattr.com/)
-- [Gitpay](http://gitpay.org/)
-- [Gratipay](https://gratipay.com/)
-- [Liberapay](https://liberapay.com/)
-- [OpenCollective](https://opencollective.com/)
-- [Patreon](https://www.patreon.com/)
-
 ### Articles
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/)
@@ -102,6 +94,15 @@ Alternatives to ad-supported websites, software, and publications.
 - [ad free blog](http://adfreeblog.org/)
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/)
 - [No more ads manifesto](https://nomoreads.org/)
+
+### Make Money Without Ads
+
+- [Flattr](https://flattr.com/)
+- [Gitpay](http://gitpay.org/)
+- [Gratipay](https://gratipay.com/)
+- [Liberapay](https://liberapay.com/)
+- [OpenCollective](https://opencollective.com/)
+- [Patreon](https://www.patreon.com/)
 
 ## License
 
