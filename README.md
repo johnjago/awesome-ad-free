@@ -79,7 +79,7 @@
 
 ### Ad Blocker
 
-- [uBlock Origin](https://github.com/gorhill/uBlock)
+- [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
 ### Articles
 
@@ -107,4 +107,4 @@
 
 ## License
 
-![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
