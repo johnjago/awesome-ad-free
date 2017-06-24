@@ -9,8 +9,8 @@
 ## Contents
 
 - [Alternatives](#alternatives)
+  - [Communication](#communication)
   - [File Sharing](#file-sharing)
-  - [Messaging](#messaging)
   - [Mobile](#mobile)
   - [Music](#music)
   - [Publications](#publications)
@@ -29,18 +29,19 @@
 
 > Alternatives to ad-supported websites, software, and publications.
 
+### Communication
+
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
+- [ProtonMail](https://protonmail.com/) - Free encrypted email.
+- [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
+- [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing.
+- [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
+
 ### File Sharing
 
 - [Dropfile.to](https://dropfile.to/) - Anonymous file upload site that does not store user information.
 - [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
 - [qBittorrent](https://www.qbittorrent.org/) - Free and open-source BitTorrent client.
-
-### Messaging
-
-- [ProtonMail](https://protonmail.com/) - Secure, encrypted email.
-- [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
-- [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing.
-- [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
 
 ### Mobile
 
