@@ -34,6 +34,7 @@
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
 - [ProtonMail](https://protonmail.com/) - Free encrypted email.
 - [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
+- [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS.
 - [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 - [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing.
 - [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
