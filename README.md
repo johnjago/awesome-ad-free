@@ -51,6 +51,7 @@
 
 ### Music
 
+- [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free.
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
 
 ### Publications
