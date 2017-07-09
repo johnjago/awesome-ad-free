@@ -88,27 +88,26 @@
 
 ### Articles
 
-- [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/)
-- [Anti-Consumerism on Wikipedia](https://en.wikipedia.org/wiki/Anti-consumerism)
-- [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/)
-- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising)
-- [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/)
-- [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html)
+- [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - A call to opt-out of the advertising game.
+- [Anti-Consumerism on Wikipedia](https://en.wikipedia.org/wiki/Anti-consumerism) - Overview of the sociopolitical ideology that opposes consumerism.
+- [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
+- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
+- [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
+- [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - Paying for ad-free services casts a bigger vote.
 
 ### Groups
 
-- [Ad Free Blog](http://adfreeblog.org/)
-- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/)
-- [No More Ads Manifesto](https://nomoreads.org/)
+- [Ad Free Blog](http://adfreeblog.org/) - Icons for showing opposition to the use of corporate advertising on blogs.
+- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - A project that calls into question the purpose and effects of advertising in public space.
+- [No More Ads Manifesto](https://nomoreads.org/) - Manifesto promoting an Internet that is not a marketplace where users get targeted and profiled for marketing purposes.
 
 ### Make Money Without Ads
 
-- [Flattr](https://flattr.com/)
-- [Gitpay](http://gitpay.org/)
-- [Gratipay](https://gratipay.com/)
-- [Liberapay](https://liberapay.com/)
-- [OpenCollective](https://opencollective.com/)
-- [Patreon](https://www.patreon.com/)
+- [Flattr](https://flattr.com/) - Browser add-on that distributes a monthly budget to websites you engage with the most.
+- [Gratipay](https://gratipay.com/) - Payment platform for open source projects that only charges processing fees, not its own fees.
+- [Liberapay](https://liberapay.com/) - Open source recurring donations platform.
+- [OpenCollective](https://opencollective.com/) - Enables groups to0 set up a collective, raise funds, and manage them transparently.
+- [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
 
 ## License
 
