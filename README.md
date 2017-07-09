@@ -98,7 +98,7 @@
 ### Groups
 
 - [Ad Free Blog](http://adfreeblog.org/) - Icons for showing opposition to the use of corporate advertising on blogs.
-- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - A project that calls into question the purpose and effects of advertising in public space.
+- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Project that calls into question the purpose and effects of advertising in public space.
 - [No More Ads Manifesto](https://nomoreads.org/) - Manifesto promoting an Internet that is not a marketplace where users get targeted and profiled for marketing purposes.
 
 ### Make Money Without Ads
