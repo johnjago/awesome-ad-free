@@ -106,7 +106,7 @@
 - [Flattr](https://flattr.com/) - Browser add-on that distributes a monthly budget to websites you engage with the most.
 - [Gratipay](https://gratipay.com/) - Payment platform for open source projects that only charges processing fees, not its own fees.
 - [Liberapay](https://liberapay.com/) - Open source recurring donations platform.
-- [OpenCollective](https://opencollective.com/) - Enables groups to0 set up a collective, raise funds, and manage them transparently.
+- [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
 - [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
 
 ## License
