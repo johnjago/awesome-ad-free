@@ -78,7 +78,7 @@
 
 ### Video
 
-- [Vimeo](https://vimeo.com/) - An alternative to YouTube for viewing and uploading videos.
+- [Vimeo](https://vimeo.com/) - Alternative to YouTube for viewing and uploading videos.
 
 ## Resources
 
@@ -88,7 +88,7 @@
 
 ### Articles
 
-- [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - A call to opt-out of the advertising game.
+- [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - Opt-out of the advertising game.
 - [Anti-Consumerism on Wikipedia](https://en.wikipedia.org/wiki/Anti-consumerism) - Overview of the sociopolitical ideology that opposes consumerism.
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
 - [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
