@@ -43,7 +43,7 @@
 
 - [Dropfile.to](https://dropfile.to/) - Anonymous file upload site that does not store user information.
 - [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
-- [qBittorrent](https://www.qbittorrent.org/) - Free and open-source BitTorrent client.
+- [qBittorrent](https://www.qbittorrent.org/) - Free and open source BitTorrent client.
 
 ### Mobile
 
@@ -58,6 +58,7 @@
 
 - [Adbusters](https://www.adbusters.org/) - Magazine about the takeover of psychological, physical, and cultural environments by commercial forces.
 - [Consumerist](https://consumerist.com/) - Independent, not-for-profit source of consumer news and information.
+- [The Conversation](https://theconversation.com/) - High quality, authenticated, explanatory journalism funded by universities.
 
 ### Reference
 
@@ -78,6 +79,7 @@
 
 ### Video
 
+- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video (and image!) sharing service powered by MediaGoblin.
 - [Vimeo](https://vimeo.com/) - Alternative to YouTube for viewing and uploading videos.
 
 ## Resources
