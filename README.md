@@ -11,7 +11,7 @@
 - [Alternatives](#alternatives)
   - [Communication](#communication)
   - [File Sharing](#file-sharing)
-  - [Mobile](#mobile)
+  - [Mobile Apps](#mobile-apps)
   - [Music](#music)
   - [Publications](#publications)
   - [Reference](#reference)
@@ -45,9 +45,10 @@
 - [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
 - [qBittorrent](https://www.qbittorrent.org/) - Free and open source BitTorrent client.
 
-### Mobile
+### Mobile Apps
 
-- [Ready](https://readytheapp.com/) - Minimalist news reader.
+- [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices.
+- [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
 
 ### Music
 
