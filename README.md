@@ -1,4 +1,4 @@
-# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://nomoreads.org/img/nomoreads_logo_small.png" width="60" height="24"></a>
+# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
 
 > A curated list of ad-free alternatives to popular services on the Internet.
 
@@ -79,6 +79,7 @@
 
 ### Utilities
 
+- [Etherpad](https://etherpad.wikimedia.org/) - Collaborative document editing in real-time.
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
 
 ### Video
