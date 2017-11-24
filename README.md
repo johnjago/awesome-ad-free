@@ -15,7 +15,7 @@
   - [Music](#music)
   - [Publications](#publications)
   - [Reference](#reference)
-  - [Social Networks](#social-networks)
+  - [Social](#social)
   - [Utilities](#utilities)
   - [Video](#video)
 - [Resources](#resources)
@@ -67,14 +67,14 @@
 
 ### Reference
 
-- [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk with links to hundreds of car related resources.
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license.
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Encyclopedia that anyone can edit.
 - [Wiktionary](https://www.wiktionary.org/) - Dictionary that anyone can edit.
 
-### Social Networks
+### Social
 
 - [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
+- [Lobsters](https://lobste.rs/) - Simple link aggregation site with explanations required to downvote.
 - [Mastodon](https://mastodon.social) - Free, open source, and decentralized social network server.
 - [Quitter.se](https://quitter.se) - Twitter clone that is part of the federated GNU social network.
 
