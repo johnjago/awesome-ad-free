@@ -82,6 +82,7 @@
 
 - [Etherpad](https://etherpad.wikimedia.org/) - Collaborative document editing in real-time.
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
+- [Taskade](https://www.taskade.com/) - Collaborative task lists and outlines.
 
 ### Video
 
