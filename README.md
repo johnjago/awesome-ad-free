@@ -41,7 +41,6 @@
 
 ### File Sharing
 
-- [Dropfile.to](https://dropfile.to/) - Anonymous file upload site that does not store user information.
 - [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
 - [qBittorrent](https://www.qbittorrent.org/) - Free and open source BitTorrent client.
 
