@@ -94,6 +94,8 @@
 
 - [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
+**WARNING**: Avoid Adblock Plus because coprorations can [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
+
 ### Articles
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - Opt-out of the advertising game.
@@ -106,9 +108,10 @@
 ### Groups
 
 - [Ad Free Blog](http://adfreeblog.org/) - Icons for showing opposition to the use of corporate advertising on blogs.
-- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Project that calls into question the purpose and effects of advertising in public space.
+- [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Calls into question the purpose and effects of advertising in public space.
+- [Brandalism](http://brandalism.ch/) - International street art collective that subverts advertising in urban space.
 - [Coalition to Ban Billboard Blight](http://banbillboardblight.org/) - Defending the urban landscape of Los Angeles from a proliferation of billboards, supergraphic signs, and other forms of outdoor advertising.
-- [No More Ads](https://nomoreads.org/) - Manifesto promoting an Internet that is not a marketplace where users get targeted and profiled for marketing purposes.
+- [No More Ads](https://nomoreads.org/) - Manifesto promoting an ad-free internet.
 
 ### Make Money Without Ads
 
