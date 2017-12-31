@@ -1,6 +1,6 @@
-# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
+# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://www.nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
 
-> A curated list of ad-free alternatives to popular services on the Internet.
+> A curated list of ad-free alternatives to popular services on the internet.
 
 > Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
 
@@ -21,6 +21,7 @@
 - [Resources](#resources)
   - [Ad Blocker](#ad-blocker)
   - [Articles](#articles)
+  - [Businesses](#businesses)
   - [Groups](#groups)
   - [Make Money Without Ads](#make-money-without-ads)
  - [License](#license)
@@ -106,13 +107,19 @@
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
 - [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - Paying for ad-free services casts a bigger vote.
 
+### Businesses
+
+> These business have no advertising policies.
+
+[Polyface Farms](http://www.polyfacefarms.com/no-advertising/) - Environmentally-friendly farm that relies on word of mouth to reach customers.
+
 ### Groups
 
 - [Ad Free Blog](http://adfreeblog.org/) - Icons for showing opposition to the use of corporate advertising on blogs.
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Calls into question the purpose and effects of advertising in public space.
 - [Brandalism](http://brandalism.ch/) - International street art collective that subverts advertising in urban space.
-- [Coalition to Ban Billboard Blight](http://banbillboardblight.org/) - Defending the urban landscape of Los Angeles from a proliferation of billboards, supergraphic signs, and other forms of outdoor advertising.
-- [No More Ads](https://nomoreads.org/) - Manifesto promoting an ad-free internet.
+- [Coalition to Ban Billboard Blight](http://banbillboardblight.org/) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
+- [No More Ads](https://www.nomoreads.org/) - Manifesto promoting an ad-free internet.
 
 ### Make Money Without Ads
 
