@@ -24,6 +24,7 @@
   - [Businesses](#businesses)
   - [Groups](#groups)
   - [Make Money Without Ads](#make-money-without-ads)
+  - [Talks](#talks)
  - [License](#license)
 
 ## Alternatives
@@ -115,11 +116,12 @@
 
 ### Groups
 
-- [Ad Free Blog](http://adfreeblog.org/) - Icons for showing opposition to the use of corporate advertising on blogs.
+- [Ad Free Blog](http://adfreeblog.org) - Icons for showing opposition to the use of corporate advertising on blogs.
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Calls into question the purpose and effects of advertising in public space.
-- [Brandalism](http://brandalism.ch/) - International street art collective that subverts advertising in urban space.
-- [Coalition to Ban Billboard Blight](http://banbillboardblight.org/) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
-- [No More Ads](https://www.nomoreads.org/) - Manifesto promoting an ad-free internet.
+- [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves.
+- [Brandalism](http://brandalism.ch) - International street art collective that subverts advertising in urban space.
+- [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
+- [No More Ads](https://www.nomoreads.org) - Manifesto promoting an ad-free internet.
 
 ### Make Money Without Ads
 
@@ -127,6 +129,10 @@
 - [Liberapay](https://liberapay.com/) - Open source recurring donations platform.
 - [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
 - [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
+
+### Talks
+
+- [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
 
 ## License
 
