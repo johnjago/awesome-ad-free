@@ -60,6 +60,7 @@
 
 - [Adbusters](https://www.adbusters.org/) - Magazine about the takeover of psychological, physical, and cultural environments by commercial forces.
 - [Aeon](https://aeon.co/) - Digital magazine that publishes original thinking on science, philosophy, society, and the arts.
+- [Armstrong Economics](https://www.armstrongeconomics.com/uncategorized/no-advertising/) - Educational blog about markets and the global economy.
 - [Common Dreams](https://www.commondreams.org/) -  Progressive news website.
 - [Consumerist](https://consumerist.com/) - Independent source of consumer news and information.
 - [Ello](https://ello.co/) - Media platform for creators and artists that does not sell user data.
@@ -114,6 +115,7 @@
 > These business have no advertising policies.
 
 - [Gandi](https://www.gandi.net/) - Domain registrar with a No Bullshit policy.
+- [Kakulas Legal](https://www.kakulas.com.au/who-we-are/no-advertising/) - Law firm that you won't find in the yellow pages.
 - [Polyface Farms](http://www.polyfacefarms.com/no-advertising/) - Environmentally-friendly farm that relies on word of mouth to reach customers.
 
 ### Groups
