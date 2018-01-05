@@ -43,12 +43,14 @@
 
 ### File Sharing
 
+- [JustIMG](https://justimg.chaoswebs.net/) - Simple image host with no tracking.
 - [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
 - [qBittorrent](https://www.qbittorrent.org/) - Free and open source BitTorrent client.
 
 ### Mobile Apps
 
 - [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices.
+- [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
 - [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
 
 ### Music
