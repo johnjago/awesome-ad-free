@@ -57,6 +57,7 @@
 
 - [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free.
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
+- [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
 
 ### Publications
 
