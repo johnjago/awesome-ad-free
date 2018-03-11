@@ -40,6 +40,8 @@
 - [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 - [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing.
 - [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
+- [Write.as](https://write.as/principles) - Blogging platform that allows you to publish ideas without distraction.
+
 
 ### File Sharing
 
@@ -102,7 +104,7 @@
 - [Add-Art](https://add-art.org/) - Replaces ads with art.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
-**WARNING**: Avoid Adblock Plus because coprorations can [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
+**Note**: Avoid Adblock Plus because coprorations can [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
 
 ### Articles
 
@@ -128,6 +130,7 @@
 - [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves.
 - [Brandalism](http://brandalism.ch) - International street art collective that subverts advertising in urban space.
 - [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
+- [Digital Public Library Project](http://no-ads.ca/) - Promotes a Digital Public Library system that can replace advertising funded media.
 - [No More Ads](https://www.nomoreads.org) - Manifesto promoting an ad-free internet.
 
 ### Make Money Without Ads
