@@ -33,6 +33,7 @@
 
 ### Communication
 
+- [FastMail](https://www.fastmail.com/) - Reliable business email with no data lock-in.
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
 - [ProtonMail](https://protonmail.com/) - Free encrypted email.
 - [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
