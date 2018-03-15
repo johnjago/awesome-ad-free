@@ -70,6 +70,7 @@
 - [Common Dreams](https://www.commondreams.org/) -  Progressive news website.
 - [Consumerist](https://consumerist.com/) - Independent source of consumer news and information.
 - [Ello](https://ello.co/) - Media platform for creators and artists that does not sell user data.
+- [Popular Resistance](https://popularresistance.org/) -  Independent, nonviolent, and diverse movements to end the power of concentrated wealth and put human needs before corporate greed.
 - [RealSport](https://realsport101.com/) - Fans write articles on football, basketball, cricket, e-sports, motorsports, and most other sports out there. This site is committed to maintaining an experience free of pop-ups, fake news, click-bait, and ads.
 - [The Conversation](https://theconversation.com/) - High quality, authenticated, explanatory journalism funded by universities.
 
