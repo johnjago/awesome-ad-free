@@ -96,7 +96,8 @@
 
 ### Video
 
-- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video (and image!) sharing service powered by MediaGoblin.
+- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin.
+- [PopChest](https://popchest.com/) - Upcoming video platform that gives creators financial freedom.
 - [Vimeo](https://vimeo.com/) - Alternative to YouTube for viewing and uploading videos.
 
 ## Resources
