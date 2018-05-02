@@ -112,6 +112,7 @@
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - Opt-out of the advertising game.
 - [Anti-Consumerism on Wikipedia](https://en.wikipedia.org/wiki/Anti-consumerism) - Overview of the sociopolitical ideology that opposes consumerism.
+- [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
 - [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
