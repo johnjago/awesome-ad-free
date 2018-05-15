@@ -9,6 +9,7 @@
 ## Contents
 
 - [Alternatives](#alternatives)
+  - [Blogs](#blogs)
   - [Communication](#communication)
   - [File Sharing](#file-sharing)
   - [Mobile Apps](#mobile-apps)
@@ -30,6 +31,10 @@
 ## Alternatives
 
 > Alternatives to ad-supported websites, software, and publications.
+
+### Blogs
+
+- [No Meat Athlete](https://www.nomeatathlete.com/resources/) - Plant-based diets and fitness.
 
 ### Communication
 
