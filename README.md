@@ -1,6 +1,6 @@
 # Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://www.nomoreads.org"><img src="https://www.nomoreads.org/img/nomoreads_logo_small.png" width="60" height="24"></a>
 
-> A curated list of ad-free alternatives to popular services on the internet.
+A curated list of ad-free alternatives to popular services on the web.
 
 > Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
 
@@ -30,7 +30,7 @@
 
 ## Alternatives
 
-> Alternatives to ad-supported websites, software, and publications.
+Alternatives to ad-supported websites, software, and publications.
 
 ### Blogs
 
@@ -125,7 +125,7 @@
 
 ### Businesses
 
-> These business have no advertising policies.
+These business have no advertising policies.
 
 - [Gandi](https://www.gandi.net/) - Domain registrar with a No Bullshit policy.
 - [Kakulas Legal](https://www.kakulas.com.au/who-we-are/no-advertising/) - Law firm that you won't find in the yellow pages.
