@@ -14,6 +14,7 @@ A curated list of ad-free alternatives to popular services on the web.
   - [File Sharing](#file-sharing)
   - [Mobile Apps](#mobile-apps)
   - [Music](#music)
+  - [Other](#other)
   - [Publications](#publications)
   - [Reference](#reference)
   - [Social](#social)
@@ -66,6 +67,10 @@ Alternatives to ad-supported websites, software, and publications.
 - [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free.
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
 - [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
+
+### Other
+
+- [Disroot](https://disroot.org/) - Collection of ethical alternatives to email, cloud storage, collaborative document editing, and more.
 
 ### Publications
 
