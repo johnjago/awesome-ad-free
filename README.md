@@ -96,6 +96,7 @@ Alternatives to ad-supported websites, software, and publications.
 - [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
 - [Lobsters](https://lobste.rs/) - Simple link aggregation site with explanations required to downvote.
 - [Mastodon](https://mastodon.social) - Free, open source, and decentralized social network server.
+- [MeWe](https://mewe.com/) - Social networking with a strong focus on privacy.
 - [Quitter.se](https://quitter.se) - Twitter clone that is part of the federated GNU social network.
 
 ### Utilities
