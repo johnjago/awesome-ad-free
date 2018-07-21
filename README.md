@@ -36,6 +36,7 @@ Alternatives to ad-supported websites, software, and publications.
 ### Blogs
 
 - [No Meat Athlete](https://www.nomeatathlete.com/resources/) - Plant-based diets and fitness.
+- [The Borrowed Abode](http://theborrowedabode.com/advertise/) - DIY and interior design for renters.
 
 ### Communication
 
