@@ -37,6 +37,8 @@ Alternatives to ad-supported websites, software, and publications.
 
 - [No Meat Athlete](https://www.nomeatathlete.com/resources/) - Plant-based diets and fitness.
 - [The Borrowed Abode](http://theborrowedabode.com/advertise/) - DIY and interior design for renters.
+- [The Minimalists](https://www.theminimalists.com/) - Living a meaningful life with less.
+- [Zen Habits](https://zenhabits.net/) - Practical advice for developing positive habits.
 
 ### Communication
 
