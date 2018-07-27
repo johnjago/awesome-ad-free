@@ -55,7 +55,6 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### File Sharing
 
-- [JustIMG](https://justimg.chaoswebs.net/) - Simple image host with no tracking.
 - [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
 - [qBittorrent](https://www.qbittorrent.org/) - Free and open source BitTorrent client.
 
