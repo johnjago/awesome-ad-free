@@ -147,6 +147,7 @@ These business have no advertising policies.
 - [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
 - [Digital Public Library Project](http://no-ads.ca/) - Promotes a Digital Public Library system that can replace advertising funded media.
 - [No More Ads](https://www.nomoreads.org) - Manifesto promoting an ad-free internet.
+- [Résistance à l'Agression Publicitaire](https://antipub.org/) - French organization fighting the advertising system and its negative effects.
 
 ### Make Money Without Ads
 
@@ -157,6 +158,7 @@ These business have no advertising policies.
 
 ### Talks
 
+- [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 - [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
 
 ## License
