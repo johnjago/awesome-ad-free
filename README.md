@@ -125,10 +125,13 @@ Alternatives to ad-supported websites, software, and publications.
 
 - [A Call for Revolt: Advertising is the Anti-Minimalism](https://zenhabits.net/opt-out/) - Opt-out of the advertising game.
 - [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
+- [Clean City Law: Secrets of São Paulo Uncovered by Outdoor Advertising Ban](https://99percentinvisible.org/article/clean-city-law-secrets-sao-paulo-uncovered-outdoor-advertising-ban/)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) - Explores the idea of conscious success rather than accidental success, using ads as an example.
 - [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
+- [Public Spaces](http://www.perezhiguera.com/publicspaces) - Artist imagines what it would be like if we could have a real-life ad blocker.
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
 - [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - Paying for ad-free services casts a bigger vote.
+- [What If There Were No Ads](https://www.huffingtonpost.com/tom-j-hidvegi/what-if-there-were-no-ads_b_4458530.html) - Daily life described in an ad-free world.
 
 ### Businesses
 
