@@ -119,7 +119,7 @@ Alternatives to ad-supported websites, software, and publications.
 - [Add-Art](https://add-art.org/) - Replaces ads with art.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
-**Note**: Avoid Adblock Plus because coprorations [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
+**Note**: Avoid Adblock Plus because corporations [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
 
 ### Articles
 
