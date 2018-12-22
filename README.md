@@ -63,6 +63,7 @@ Alternatives to ad-supported websites, software, and publications.
 - [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices.
 - [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
 - [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
+- [Simple Mobile Tools](https://simplemobiletools.github.io/) - Open source Android utilities: gallery, contacts, calendar, and more.
 
 ### Music
 
@@ -95,9 +96,13 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### Social
 
+- [diaspora*](https://diasp.org/) - Feeds, likes, profiles, and tags; you are in control of your data.
 - [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
+- [Libranet](https://libranet.de/) - Popular site running friendica, a federated Facebook-style social network.
 - [Lobsters](https://lobste.rs/) - Simple link aggregation site with explanations required to downvote.
-- [Mastodon](https://mastodon.social) - Free, open source, and decentralized social network server.
+- [Manyverse](https://www.manyver.se/) - Off the grid social network.
+- [Mastodon](https://mastodon.social) - Decentralized microblogging platform similar to Twitter.
+- [PixelFed](https://pixelfed.social/) - Essentially Instagram without ads, trackers, or modified timelines.
 
 ### Utilities
 
