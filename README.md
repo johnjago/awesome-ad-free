@@ -1,4 +1,4 @@
-# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://www.nomoreads.org"><img src="https://www.nomoreads.org/img/nomoreads_logo_small.png" width="60" height="24"></a>
+# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://www.nomoreads.org/img/nomoreads_logo_small.png" width="60" height="24"></a>
 
 A curated list of ad-free alternatives to popular services on the web.
 
