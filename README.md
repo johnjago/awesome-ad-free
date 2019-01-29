@@ -1,4 +1,4 @@
-# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://www.nomoreads.org/img/nomoreads_logo_small.png" width="60" height="24"></a>
+# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of ad-free alternatives to popular services on the web.
 
@@ -36,6 +36,7 @@ Alternatives to ad-supported websites, software, and publications.
 ### Blogs
 
 - [No Meat Athlete](https://www.nomeatathlete.com/resources/) - Plant-based diets and fitness.
+- [No More Ads](https://nomoreads.org) - Practical advice for an ad-free internet.
 - [The Borrowed Abode](http://theborrowedabode.com/advertise/) - DIY and interior design for renters.
 - [The Minimalists](https://www.theminimalists.com/) - Living a meaningful life with less.
 - [Zen Habits](https://zenhabits.net/) - Practical advice for developing positive habits.
@@ -43,15 +44,14 @@ Alternatives to ad-supported websites, software, and publications.
 ### Communication
 
 - [FastMail](https://www.fastmail.com/) - Reliable business email with no data lock-in.
+- [Jami](https://jami.net/) - Telephone, teleconferencing, and media sharing through a distributed service.
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC.
 - [ProtonMail](https://protonmail.com/) - Free encrypted email.
-- [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service.
 - [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS.
 - [Telegram](https://telegram.org/) - Cloud-based mobile and desktop messaging app with a focus on security and speed.
 - [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing.
 - [Wire](https://wire.com/en/privacy/) - Text, audio, and video communication with end-to-end encryption.
 - [Write.as](https://write.as/principles) - Blogging platform that allows you to publish ideas without distraction.
-
 
 ### File Sharing
 
@@ -96,6 +96,7 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### Social
 
+- [Are.na](https://www.are.na/) - Visual platform to help you think about and organize online content.
 - [diaspora*](https://diasp.org/) - Feeds, likes, profiles, and tags; you are in control of your data.
 - [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
 - [Libranet](https://libranet.de/) - Popular site running friendica, a federated Facebook-style social network.
@@ -108,12 +109,10 @@ Alternatives to ad-supported websites, software, and publications.
 
 - [Etherpad](https://etherpad.wikimedia.org/) - Collaborative document editing in real-time.
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
-- [Taskade](https://www.taskade.com/) - Collaborative task lists and outlines.
 
 ### Video
 
 - [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin.
-- [PopChest](https://popchest.com/) - Upcoming video platform that gives creators financial freedom.
 
 ## Resources
 
@@ -136,10 +135,11 @@ Alternatives to ad-supported websites, software, and publications.
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) - Story of a blogger who chose a better way to make a living.
 - [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) - Paying for ad-free services casts a bigger vote.
 - [What If There Were No Ads](https://www.huffingtonpost.com/tom-j-hidvegi/what-if-there-were-no-ads_b_4458530.html) - Daily life described in an ad-free world.
+- [Why no advertising?](https://sivers.org/noads) - Through the perspective of the perfect-world ideal.
 
 ### Businesses
 
-These business have no advertising policies.
+These business don't advertise yet are successful.
 
 - [Gandi](https://www.gandi.net/) - Domain registrar with a No Bullshit policy.
 - [Kakulas Legal](https://www.kakulas.com.au/who-we-are/no-advertising/) - Law firm that you won't find in the yellow pages.
@@ -147,13 +147,11 @@ These business have no advertising policies.
 
 ### Groups
 
-- [Ad Free Blog](http://adfreeblog.org) - Icons for showing opposition to the use of corporate advertising on blogs.
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Calls into question the purpose and effects of advertising in public space.
 - [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves.
 - [Brandalism](http://brandalism.ch) - International street art collective that subverts advertising in urban space.
 - [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
 - [Digital Public Library Project](http://no-ads.ca/) - Promotes a Digital Public Library system that can replace advertising funded media.
-- [No More Ads](https://www.nomoreads.org) - Manifesto promoting an ad-free internet.
 - [Résistance à l'Agression Publicitaire](https://antipub.org/) - French organization fighting the advertising system and its negative effects.
 
 ### Make Money Without Ads
