@@ -1,6 +1,6 @@
 # Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of ad-free alternatives to popular services on the web.
+A curated list of ad-free alternatives of popular services on the website.
 
 > Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
 
