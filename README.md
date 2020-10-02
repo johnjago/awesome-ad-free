@@ -90,7 +90,7 @@ Alternatives to ad-supported websites, software, and publications.
 ### Reference
 
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license.
-- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Encyclopedia that anyone can edit.
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Wikipedia is a free, web-based encyclopedia project which contains information on a wide variety of subjects which are added by contributors from all over the Internet.
 - [Wiktionary](https://www.wiktionary.org/) - Dictionary that anyone can edit.
 - [Weather.gov](http://www.weather.gov/) - Weather reports for places in the United States.
 
