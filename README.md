@@ -62,7 +62,6 @@ Alternatives to ad-supported websites, software, and publications.
 
 - [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices.
 - [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
-- [Ready](https://readytheapp.com/) - Minimalist news reader for iOS.
 - [Simple Mobile Tools](https://simplemobiletools.github.io/) - Open source Android utilities: gallery, contacts, calendar, and more.
 
 ### Music
