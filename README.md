@@ -36,7 +36,6 @@ Alternatives to ad-supported websites, software, and publications.
 ### Blogs
 
 - [No Meat Athlete](https://www.nomeatathlete.com/resources/) - Plant-based diets and fitness.
-- [No More Ads](https://nomoreads.org) - Practical advice for an ad-free internet.
 - [The Borrowed Abode](http://theborrowedabode.com/advertise/) - DIY and interior design for renters.
 - [The Minimalists](https://www.theminimalists.com/) - Living a meaningful life with less.
 - [Zen Habits](https://zenhabits.net/) - Practical advice for developing positive habits.
@@ -68,7 +67,6 @@ Alternatives to ad-supported websites, software, and publications.
 
 - [Libre.fm](https://libre.fm/) - Stream, download, remix, and share music for free.
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
-- [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
 
 ### Other
 
@@ -111,7 +109,7 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### Video
 
-- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin.
+- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin. (**_[Site is shutting down.](https://twitter.com/GoblinRefuge/status/1345556196715991040)_**)
 
 ## Resources
 
@@ -147,7 +145,6 @@ These business don't advertise yet are successful.
 ### Groups
 
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - Calls into question the purpose and effects of advertising in public space.
-- [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves.
 - [Brandalism](http://brandalism.ch) - International street art collective that subverts advertising in urban space.
 - [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - Defending the urban landscape of Los Angeles from a proliferation of billboards.
 - [Digital Public Library Project](http://no-ads.ca/) - Promotes a Digital Public Library system that can replace advertising funded media.
@@ -164,6 +161,11 @@ These business don't advertise yet are successful.
 
 - [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 - [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
+
+## No longer maintained
+- [No More Ads](https://nomoreads.org) - Practical advice for an ad-free internet. ([Wayback Machine archive](http://web.archive.org/web/20190121234844/https://nomoreads.org/))
+- [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
+- [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves. ([Wayback Machine archive](http://web.archive.org/web/20190111233537/http://artnotads.org/))
 
 ## License
 
