@@ -160,9 +160,9 @@ These business don't advertise yet are successful.
 
 ## No longer maintained
 - [No More Ads](https://nomoreads.org) - Practical advice for an ad-free internet. ([Wayback Machine archive](http://web.archive.org/web/20190121234844/https://nomoreads.org/))
-- [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
+- [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly. ([Wayback Machine archive](https://web.archive.org/web/20170218031432/https://voltra.co/))
 - [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves. ([Wayback Machine archive](http://web.archive.org/web/20190111233537/http://artnotads.org/))
-- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin. (**_[Site is shutting down on April 1, 2021.](https://twitter.com/GoblinRefuge/status/1345556196715991040)_**)
+- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin. (**_[Site is shutting down on April 1, 2021.](https://twitter.com/GoblinRefuge/status/1345556196715991040)_**) ([Wayback Machine archive](https://web.archive.org/web/20210115200536/https://goblinrefuge.com/mediagoblin/))
 
 
 ## License
