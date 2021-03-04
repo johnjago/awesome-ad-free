@@ -107,10 +107,6 @@ Alternatives to ad-supported websites, software, and publications.
 - [Etherpad](https://etherpad.wikimedia.org/) - Collaborative document editing in real-time.
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
 
-### Video
-
-- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin. (**_[Site is shutting down.](https://twitter.com/GoblinRefuge/status/1345556196715991040)_**)
-
 ## Resources
 
 ### Ad Blockers
@@ -166,6 +162,8 @@ These business don't advertise yet are successful.
 - [No More Ads](https://nomoreads.org) - Practical advice for an ad-free internet. ([Wayback Machine archive](http://web.archive.org/web/20190121234844/https://nomoreads.org/))
 - [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
 - [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves. ([Wayback Machine archive](http://web.archive.org/web/20190111233537/http://artnotads.org/))
+- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin. (**_[Site is shutting down on April 1, 2021.](https://twitter.com/GoblinRefuge/status/1345556196715991040)_**)
+
 
 ## License
 
