@@ -54,7 +54,7 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### File Sharing
 
-- [Mega](https://mega.nz/) - 50 GB of secure free storage. Files are encrypted client-side.
+- [Mega](https://mega.nz/) - 50 GB of secure free storage (in which 35 GB will expire after 30 days). Files are encrypted client-side. More (non-permanent) space can be claimed from achievements.
 - [qBittorrent](https://www.qbittorrent.org/) - Free and open source BitTorrent client.
 
 ### Mobile Apps
