@@ -110,6 +110,7 @@ Alternatives to ad-supported websites, software, and publications.
 ### Web Apps
 
 - [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
+- [bundlejs](https://bundle.js.org) - A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
 
 ## Resources
 
