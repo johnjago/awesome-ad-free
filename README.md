@@ -101,6 +101,7 @@ Alternatives to ad-supported websites, software, and publications.
 - [Manyverse](https://www.manyver.se/) - Off the grid social network.
 - [Mastodon](https://mastodon.social) - Decentralized microblogging platform similar to Twitter.
 - [PixelFed](https://pixelfed.social/) - Essentially Instagram without ads, trackers, or modified timelines.
+- [Retrospring](https://retrospring.net) - A social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat.
 
 ### Utilities
 
