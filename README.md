@@ -162,6 +162,7 @@ These business don't advertise yet are successful.
 
 - [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 - [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## No longer maintained
 - [No More Ads](https://nomoreads.org) - Practical advice for an ad-free internet. ([Wayback Machine archive](http://web.archive.org/web/20190121234844/https://nomoreads.org/))
