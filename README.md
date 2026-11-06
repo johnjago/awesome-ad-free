@@ -104,6 +104,8 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### Utilities
 
+- [AutoClicker Studio](https://apps.microsoft.com/detail/9ntt3g455p5x?hl=en-US) - Paid Windows mouse-and-keyboard automation with local routines, scheduling, and no advertising.
+- [Data Format Workbench](https://apps.microsoft.com/detail/9nxzwn74wqn5?hl=en-US) - Paid Windows structured-data inspection and conversion with table/tree views and no advertising.
 - [Etherpad](https://etherpad.wikimedia.org/) - Collaborative document editing in real-time.
 - [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
 
